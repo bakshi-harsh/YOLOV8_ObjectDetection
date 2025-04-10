@@ -1,0 +1,5 @@
+GIT datasets
+Pokemon Detection.v2i.yolov8
+annotate me.v3i.yolov8
+./runs
+./YOLOV8_objectDetection/pokemon-dataset-1000
