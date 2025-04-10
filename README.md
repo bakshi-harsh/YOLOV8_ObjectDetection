@@ -1,3 +1,3 @@
-### PROJECT SYNOPSIS
+### ---------------------------------------- PROJECT SYNOPSIS -------------------------------------------------------------------------
 
-## MADE BY HARSH BAKSHI 😂
+## MADE BY HARSH BAKSHI
